@@ -1,2 +1,2 @@
-# Project-43
-MAKE YOUR OWN GAME - 1
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
